@@ -1,9 +1,9 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Salah%20Al-Baredah&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Salah%20Albareda&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" />
   
-  <h1>Hello, I'm Salah! 👋</h1>
-  <p><strong>Mobile & Web Applications Developer</strong></p>
+  <h1>Hi, I'm Salah Albareda 👋</h1>
+  <p><strong>Full Stack Developer</strong></p>
 
   <p>
     <a href="https://linkedin.com/in/engsalah555" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
@@ -16,28 +16,32 @@
 
 ### 🚀 About Me
 
-Hello, I'm **Salah** — a developer passionate about building and shipping modern mobile applications and responsive web pages. Whenever an idea strikes, I love jumping right in and turning it into reality.
+I'm a **Full Stack Developer** — I build web apps and ship them.
 
-Driven by strong curiosity and continuous learning, I focus on writing clean, well-structured code, moving fast, and launching products that bring real value to users.
+If an idea pops into my head, chances are I'll start building it right away.
 
-#### 💡 Highlights & Mindset:
-- 📱 Building smooth cross-platform mobile apps and interactive web experiences.
-- ⚡ Rapid execution: taking concepts from whiteboard to working software quickly.
-- 🔄 Lifelong learner always exploring new tools, architectures, and engineering patterns.
-- 🎌 Fun fact: Huge anime enthusiast!
+My main tech stack is **Next.js**, **React**, and **TypeScript** for the frontend, and **Node.js** for the backend.
+
+I like writing clean code, building fast, and shipping projects that actually get used.
+
+I've got a bunch of projects featured here, and I'm always working on more.
+
+#### 💡 Fun Facts:
+- 🔍 I love continuous learning and deep exploration.
+- 🛠️ I enjoy building things from scratch and learning new tech.
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-| Category | Technologies & Tools |
+| Category | Technologies |
 | :--- | :--- |
-| **Programming Languages** | `Dart` `JavaScript` `TypeScript` `Python` `PHP` `HTML5` `CSS3` |
-| **Frameworks & Libraries** | `Flutter` `Next.js` `React` `Node.js` `Laravel` `Tailwind CSS` |
-| **Databases & Cloud** | `MySQL` `Firebase` `Supabase` |
-| **Architecture & Tooling** | `Clean Architecture` `BLoC / Cubit` `Git` `RESTful APIs` `GitHub Actions` |
+| **Frontend** | `React` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` |
+| **Backend & APIs** | `Node.js` `Python` `Laravel` `REST APIs` |
+| **Mobile** | `Flutter` `Dart` `BLoC / Cubit` `Clean Architecture` |
+| **Databases & Tools** | `MySQL` `Firebase` `Supabase` `Git` |
 
 </div>
 
@@ -45,15 +49,15 @@ Driven by strong curiosity and continuous learning, I focus on writing clean, we
 
 ### 🌟 Featured Projects
 
-| Project | Focus & Highlights | Links |
-| :--- | :--- | :---: |
-| 🚜 **Smart Farmer** | **AI AgriTech Platform** — Full ecosystem featuring on-device plant disease diagnosis, agricultural chatbot, IoT field telemetry, and digital marketplace. | [Client](https://github.com/engsalah555/smart-farmer) • [Backend](https://github.com/engsalah555/smart-farmer-backend) |
-| 📹 **Monitoring VMS** | **Enterprise Surveillance** — Multi-branch CCTV & NVR management platform with live multi-grid camera streaming and timeline DVR playback. | [Code](https://github.com/engsalah555/monitoring_application) |
-| ⛽ **Car Fuel Monitor** | **Fleet & Fuel Analytics** — Collaborative mobility application for real-time fuel tracking, nearby station routing, and cloud synchronization. | [Code](https://github.com/odaibishr/Car-Fuel-Monitor) |
+| Project | Highlights | Stack | Links |
+| :--- | :--- | :--- | :---: |
+| 🚜 **Smart Farmer** | **AI AgriTech Platform** — Full ecosystem with on-device plant disease diagnosis, agricultural chatbot, and IoT telemetry. | `Flutter` `Python` `Laravel` | [Client](https://github.com/engsalah555/smart-farmer) • [Backend](https://github.com/engsalah555/smart-farmer-backend) |
+| 📹 **Monitoring VMS** | **Enterprise Surveillance** — Multi-branch CCTV & NVR management platform with live multi-grid camera streaming and timeline DVR playback. | `Flutter` `Dart` `DDD` | [Code](https://github.com/engsalah555/monitoring_application) |
+| ⛽ **Car Fuel Monitor** | **Fleet & Fuel Analytics** — Collaborative mobility application for real-time fuel tracking, nearby station routing, and cloud sync. | `Flutter` `BLoC` `Supabase` | [Code](https://github.com/odaibishr/Car-Fuel-Monitor) |
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity
 
 <div align="center">
   <table border="0">
@@ -79,5 +83,7 @@ Driven by strong curiosity and continuous learning, I focus on writing clean, we
 ---
 
 <div align="center">
+  <h3>✨ Let's build something great together! ✨</h3>
+  <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%" />
 </div>
