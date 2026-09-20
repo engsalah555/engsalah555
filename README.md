@@ -61,31 +61,6 @@ Browse my projects below — every project here represents an idea that became r
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=engsalah555&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-      </td>
-      <td>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engsalah555&layout=compact&langs_count=6&theme=radical&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engsalah555/engsalah555/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/engsalah555/engsalah555/output/dist/github-contribution-grid-snake.svg">
-    <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/engsalah555/engsalah555/output/dist/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%" />
 </div>
