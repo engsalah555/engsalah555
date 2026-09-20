@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Salah%20Al-Baredah&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" />
   
-  <h1>Hi there, I'm Salah Al-Baredah 👋</h1>
+  <h1>Hello, I'm Salah! 👋</h1>
   <p><strong>Mobile & Web Applications Developer</strong></p>
 
   <p>
@@ -16,15 +16,30 @@
 
 ### 🚀 About Me
 
-I am a developer who builds and ships cross-platform **mobile applications** and modern **web pages**. Whenever an inspiring idea strikes, I immediately start bringing it to life.
+Hello, I'm **Salah** — a developer passionate about building and shipping modern mobile applications and responsive web pages. Whenever an idea strikes, I love jumping right in and turning it into reality.
 
-Driven by a relentless curiosity and continuous learning, I focus on writing clean, maintainable code, building rapidly, and launching software that people actually use.
+Driven by strong curiosity and continuous learning, I focus on writing clean, well-structured code, moving fast, and launching products that bring real value to users.
 
 #### 💡 Highlights & Mindset:
-- 📱 Crafting seamless mobile experiences and responsive web interfaces.
-- 🔄 Lifelong learner fueled by genuine curiosity for new systems and modern development.
-- ⚡ Fast execution: moving swiftly from concept to working, usable product.
-- 🎌 Fun fact: Huge anime fan!
+- 📱 Building smooth cross-platform mobile apps and interactive web experiences.
+- ⚡ Rapid execution: taking concepts from whiteboard to working software quickly.
+- 🔄 Lifelong learner always exploring new tools, architectures, and engineering patterns.
+- 🎌 Fun fact: Huge anime enthusiast!
+
+---
+
+### 🛠️ Technologies & Tools
+
+<div align="center">
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Programming Languages** | `Dart` `JavaScript` `TypeScript` `Python` `PHP` `HTML5` `CSS3` |
+| **Frameworks & Libraries** | `Flutter` `Next.js` `React` `Node.js` `Laravel` `Tailwind CSS` |
+| **Databases & Cloud** | `MySQL` `Firebase` `Supabase` |
+| **Architecture & Tooling** | `Clean Architecture` `BLoC / Cubit` `Git` `RESTful APIs` `GitHub Actions` |
+
+</div>
 
 ---
 
@@ -32,24 +47,9 @@ Driven by a relentless curiosity and continuous learning, I focus on writing cle
 
 | Project | Focus & Highlights | Links |
 | :--- | :--- | :---: |
-| 🚜 **Smart Farmer** | **AI AgriTech Platform** — Full ecosystem featuring on-device plant disease diagnosis, conversational AI assistance, IoT field telemetry, and digital marketplace. | [Client](https://github.com/engsalah555/smart-farmer) • [Backend](https://github.com/engsalah555/smart-farmer-backend) |
+| 🚜 **Smart Farmer** | **AI AgriTech Platform** — Full ecosystem featuring on-device plant disease diagnosis, agricultural chatbot, IoT field telemetry, and digital marketplace. | [Client](https://github.com/engsalah555/smart-farmer) • [Backend](https://github.com/engsalah555/smart-farmer-backend) |
 | 📹 **Monitoring VMS** | **Enterprise Surveillance** — Multi-branch CCTV & NVR management platform with live multi-grid camera streaming and timeline DVR playback. | [Code](https://github.com/engsalah555/monitoring_application) |
 | ⛽ **Car Fuel Monitor** | **Fleet & Fuel Analytics** — Collaborative mobility application for real-time fuel tracking, nearby station routing, and cloud synchronization. | [Code](https://github.com/odaibishr/Car-Fuel-Monitor) |
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Frontend & Web** | `Next.js` `React` `TypeScript` `JavaScript` `Tailwind CSS` `HTML5` `CSS3` |
-| **Mobile Systems** | `Flutter` `Dart` `BLoC / Cubit` `Clean Architecture` |
-| **Backend & Cloud** | `Node.js` `Python` `Laravel` `MySQL` `Firebase` `Supabase` |
-| **Version Control & DevOps** | `Git` `GitHub Actions` `REST APIs` |
-
-</div>
 
 ---
 
@@ -72,7 +72,7 @@ Driven by a relentless curiosity and continuous learning, I focus on writing cle
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engsalah555/engsalah555/output/dist/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/engsalah555/engsalah555/output/dist/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/engsalah555/engsalah555/output/dist/github-contribution-grid-snake.svg">
+    <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/engsalah555/engsalah555/output/dist/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
