@@ -1,10 +1,9 @@
-<!-- Header -->
+<!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eng.%20Salah%20Al-Baredah&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Salah%20Al-Baredah&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" />
   
-  <h1>Eng. Salah Al-Baredah</h1>
-  <p><strong>Software Engineer & Systems Architect</strong></p>
-  <p><em>Full-Stack Web • Cross-Platform Mobile • Clean Architecture (DDD)</em></p>
+  <h1>Hi there, I'm Salah Al-Baredah 👋</h1>
+  <p><strong>Full-Stack Web & Mobile Developer</strong></p>
 
   <p>
     <a href="https://linkedin.com/in/engsalah555" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
@@ -15,41 +14,46 @@
 
 ---
 
-### 🏛️ Executive Summary
+### 🚀 About Me
 
-I am an academically grounded **Software Engineer** focused on designing scalable, high-integrity digital products. My engineering practice centers on **Clean Architecture**, **Domain-Driven Design (DDD)**, and robust software principles—crafting every layer of logic with deliberate thought, architectural discipline, and precision.
+I am a **Full-Stack Web Developer** who builds and ships modern web applications. If an idea sparks in my mind, chances are I'll start building it right away.
 
-* **Core Focus:** Modular Systems, Algorithmic Rigor, Separation of Concerns.
-* **Specialization:** Modern Web ecosystems and enterprise-grade Mobile architectures integrated with IoT and intelligent cloud services.
+My core stack centers around **Next.js**, **React**, and **TypeScript** on the frontend, and **Node.js** on the backend. I love writing clean code, shipping fast, and launching projects that people actually use.
 
----
+I have a curated set of featured projects here, and I'm constantly building more.
 
-### 🚀 Selected Architectural Projects
-
-| System | Focus & Highlights | Stack | Links |
-| :--- | :--- | :--- | :---: |
-| 🚜 **Smart Farmer** | **AI-Driven AgriTech Ecosystem**<br>End-to-end platform featuring on-device plant disease diagnosis, conversational AI assistance, IoT sensor telemetry, and farmer marketplace. | `Flutter` `Python` `Laravel` | [Client](https://github.com/engsalah555/smart-farmer) • [Backend](https://github.com/engsalah555/smart-farmer-backend) |
-| 📹 **Monitoring VMS** | **Enterprise Video Management System**<br>Multi-branch CCTV/NVR topology manager engineered with Clean Architecture & DDD, live multi-grid camera matrices, and timeline DVR playback. | `Flutter` `Dart` `DDD` | [Source](https://github.com/engsalah555/monitoring_application) |
-| ⛽ **Fuel Monitor** | **Geospatial Fleet Telemetry**<br>Collaborative mobility application with real-time GPS tracking, proximity station routing, and BLoC-driven state synchronization across cloud backends. | `Flutter` `BLoC` `Supabase` | [Source](https://github.com/odaibishr/Car-Fuel-Monitor) |
+#### 💡 Fun Facts:
+- 🎌 I love anime!
+- 🛠️ I genuinely enjoy building things from scratch and exploring new technologies.
 
 ---
 
-### 🛠️ Technical Competency
+### 💻 Tech Stack & Tools
 
 <div align="center">
 
-| Domain | Technologies & Tooling |
+| Area | Technologies |
 | :--- | :--- |
-| **Frontend & Web** | `Next.js` `React` `TypeScript` `JavaScript` `Tailwind CSS` `HTML5/CSS3` |
-| **Mobile Systems** | `Flutter` `Dart` `BLoC / Cubit` `Clean Architecture` `Android Studio` |
-| **Backend & Cloud** | `Node.js` `Python` `Laravel (PHP)` `MySQL` `Supabase` `Firebase` |
-| **Engineering Practices** | `Domain-Driven Design (DDD)` `RESTful APIs` `Git & CI/CD` `Software Design Patterns` |
+| **Frontend & Web** | `Next.js` `React` `TypeScript` `JavaScript` `Tailwind CSS` `HTML5` `CSS3` |
+| **Mobile Systems** | `Flutter` `Dart` `BLoC / Cubit` `Clean Architecture` |
+| **Backend & Databases** | `Node.js` `Python` `Laravel` `MySQL` `Firebase` `Supabase` |
+| **Version Control & Tools** | `Git` `GitHub Actions` `REST APIs` |
 
 </div>
 
 ---
 
-### 📈 Engineering Analytics
+### 🌟 Featured Projects
+
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :---: |
+| 🚜 **Smart Farmer** | **AI AgriTech Platform** — Full ecosystem with on-device plant disease diagnosis, agricultural chatbot, and IoT field telemetry. | `Flutter` `Python` `Laravel` | [Client](https://github.com/engsalah555/smart-farmer) • [Backend](https://github.com/engsalah555/smart-farmer-backend) |
+| 📹 **Monitoring VMS** | **Enterprise Surveillance** — Multi-branch CCTV & NVR management system with live camera matrices and timeline DVR playback. | `Flutter` `Dart` `DDD` | [Code](https://github.com/engsalah555/monitoring_application) |
+| ⛽ **Car Fuel Monitor** | **Fleet & Fuel Analytics** — Collaborative mobility application for fuel tracking, nearby station routing, and real-time cloud sync. | `Flutter` `BLoC` `Supabase` | [Code](https://github.com/odaibishr/Car-Fuel-Monitor) |
+
+---
+
+### 📊 GitHub Activity & Languages
 
 <div align="center">
   <table border="0">
@@ -68,14 +72,12 @@ I am an academically grounded **Software Engineer** focused on designing scalabl
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engsalah555/engsalah555/output/dist/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/engsalah555/engsalah555/output/dist/github-contribution-grid-snake.svg">
-    <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/engsalah555/engsalah555/output/dist/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/engsalah555/engsalah555/output/dist/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 ---
 
 <div align="center">
-  <i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i>
-  <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%" />
 </div>
