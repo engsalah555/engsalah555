@@ -14,7 +14,7 @@
 
 ---
 
-### 🚀 About Me
+### 🤞🏻 About Me
 
 I'm **Salah Albareda**.
 
