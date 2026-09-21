@@ -26,13 +26,6 @@ Browse my projects below — every project here represents an idea that became r
 
 ---
 
-### 🌟 Featured Projects
-
-| Project | Highlights | Links |
-| :--- | :--- | :---: |
-| 🚜 **Smart Farmer** | **AI AgriTech Platform** — Full ecosystem with on-device plant disease diagnosis, agricultural chatbot, IoT field telemetry, and digital marketplace. | [Client](https://github.com/engsalah555/smart-farmer) • [Backend](https://github.com/engsalah555/smart-farmer-backend) |
-| 📹 **Monitoring VMS** | **Enterprise Surveillance** — Multi-branch CCTV & NVR management platform with live multi-grid camera streaming and timeline DVR playback. | [Code](https://github.com/engsalah555/monitoring_application) |
-| ⛽ **Car Fuel Monitor** | **Fleet & Fuel Analytics** — Collaborative mobility app for real-time fuel tracking, nearby station routing, and cloud sync. | [Code](https://github.com/odaibishr/Car-Fuel-Monitor) |
 
 ---
 
